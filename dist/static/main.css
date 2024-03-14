@@ -1,0 +1,9 @@
+
+body {
+    font-family: 'Roboto', 'Nunito', sans-serif;
+    background-color: rgb(152, 166, 161);
+    color: rgb(104, 45, 45);
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+}
